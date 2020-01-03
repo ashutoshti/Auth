@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec997afb-3cee-482a-b58b-3143e3597c13" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Auth" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VkoC3nGzmvbbcCdAG4lFoIWcHs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/Driver" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.dataPageTestCase">
+    <configuration name="BrowserConfiguration (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Auth" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.auth.Browser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.auth.Browser" />
+      <option name="MAIN_CLASS_NAME" value="com.auth.Browser.BrowserConfiguration" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dataPageTestCase" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Auth" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.auth.TestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.auth.TestCases" />
+      <option name="MAIN_CLASS_NAME" value="com.auth.TestCases.dataPageTestCase" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="loginTestCase (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Auth" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.auth.TestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.auth.TestCases" />
+      <option name="MAIN_CLASS_NAME" value="com.auth.TestCases.loginTestCase" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="loginTestCase" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Auth" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.auth.TestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.auth.TestCases" />
+      <option name="MAIN_CLASS_NAME" value="com.auth.TestCases.loginTestCase" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="productSelectionTestCase" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Auth" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.auth.TestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.auth.TestCases" />
+      <option name="MAIN_CLASS_NAME" value="com.auth.TestCases.productSelectionTestCase" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.dataPageTestCase" />
+        <item itemvalue="TestNG.productSelectionTestCase" />
+        <item itemvalue="TestNG.loginTestCase (1)" />
+        <item itemvalue="TestNG.loginTestCase" />
+        <item itemvalue="TestNG.BrowserConfiguration (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec997afb-3cee-482a-b58b-3143e3597c13" name="Default Changelist" comment="" />
+      <created>1577806322574</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577806322574</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="354" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1578068560286">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="354" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1440.808@0.23.1440.808" timestamp="1578068560286" />
+    <state x="483" y="296" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1577811599699">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="483" y="296" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1440.808@0.23.1440.808" timestamp="1577811599699" />
+    <state x="536" y="350" key="Github.CreateGistDialog" timestamp="1578073176103">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="536" y="350" key="Github.CreateGistDialog/0.23.1440.811@0.23.1440.811" timestamp="1578073176103" />
+    <state width="1398" height="258" key="GridCell.Tab.0.bottom" timestamp="1578073144742">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state width="1397" height="207" key="GridCell.Tab.0.bottom/0.23.1440.807@0.23.1440.807" timestamp="1577813591465" />
+    <state width="1398" height="207" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1578072836449" />
+    <state width="1398" height="258" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1578073144742" />
+    <state width="1398" height="258" key="GridCell.Tab.0.center" timestamp="1578073144741">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state width="1397" height="207" key="GridCell.Tab.0.center/0.23.1440.807@0.23.1440.807" timestamp="1577813591463" />
+    <state width="1398" height="207" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1578072836448" />
+    <state width="1398" height="258" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1578073144741" />
+    <state width="1398" height="258" key="GridCell.Tab.0.left" timestamp="1578073144740">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state width="1397" height="207" key="GridCell.Tab.0.left/0.23.1440.807@0.23.1440.807" timestamp="1577813591463" />
+    <state width="1398" height="207" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1578072836447" />
+    <state width="1398" height="258" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1578073144740" />
+    <state width="1398" height="258" key="GridCell.Tab.0.right" timestamp="1578073144742">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state width="1397" height="207" key="GridCell.Tab.0.right/0.23.1440.807@0.23.1440.807" timestamp="1577813591465" />
+    <state width="1398" height="207" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1578072836448" />
+    <state width="1398" height="258" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1578073144742" />
+    <state width="1398" height="258" key="GridCell.Tab.1.bottom" timestamp="1578073144743">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state width="1398" height="258" key="GridCell.Tab.1.bottom/0.23.1440.808@0.23.1440.808" timestamp="1578070214146" />
+    <state width="1398" height="258" key="GridCell.Tab.1.bottom/0.23.1440.811@0.23.1440.811" timestamp="1578073144743" />
+    <state width="1398" height="258" key="GridCell.Tab.1.center" timestamp="1578073144743">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state width="1398" height="258" key="GridCell.Tab.1.center/0.23.1440.808@0.23.1440.808" timestamp="1578070214145" />
+    <state width="1398" height="258" key="GridCell.Tab.1.center/0.23.1440.811@0.23.1440.811" timestamp="1578073144743" />
+    <state width="1398" height="258" key="GridCell.Tab.1.left" timestamp="1578073144743">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state width="1398" height="258" key="GridCell.Tab.1.left/0.23.1440.808@0.23.1440.808" timestamp="1578070214144" />
+    <state width="1398" height="258" key="GridCell.Tab.1.left/0.23.1440.811@0.23.1440.811" timestamp="1578073144743" />
+    <state width="1398" height="258" key="GridCell.Tab.1.right" timestamp="1578073144743">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state width="1398" height="258" key="GridCell.Tab.1.right/0.23.1440.808@0.23.1440.808" timestamp="1578070214145" />
+    <state width="1398" height="258" key="GridCell.Tab.1.right/0.23.1440.811@0.23.1440.811" timestamp="1578073144743" />
+    <state x="229" y="66" key="SettingsEditor" timestamp="1577808342758">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="229" y="66" key="SettingsEditor/0.23.1440.808@0.23.1440.808" timestamp="1577808342758" />
+    <state x="413" y="259" key="com.intellij.ide.util.TipDialog" timestamp="1577856588633">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state x="413" y="259" key="com.intellij.ide.util.TipDialog/0.23.1440.807@0.23.1440.807" timestamp="1577856588633" />
+    <state x="413" y="259" key="com.intellij.ide.util.TipDialog/0.23.1440.808@0.23.1440.808" timestamp="1577837720100" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Auth$dataPageTestCase.ic" NAME="dataPageTestCase Coverage Results" MODIFIED="1578070644704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.auth.TestCases.*</FILTER>
+    </SUITE>
+  </component>
+</project>
