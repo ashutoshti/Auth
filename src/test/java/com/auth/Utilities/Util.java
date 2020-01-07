@@ -15,7 +15,7 @@ import java.util.Date;
 
 public class Util extends BrowserConfiguration {
 
-    public static long PAGE_LOAD_TIMEOUT = 50;
+    public static long PAGE_LOAD_TIMEOUT = 100;
     public static long IMPLICIT_WAIT = 20;
 
     public static void screenshot() throws IOException {
